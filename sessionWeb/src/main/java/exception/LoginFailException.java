@@ -8,5 +8,4 @@ public class LoginFailException extends Exception {
 //		failMessage는 getMessage로 빼옴
 		super(failMessage);
 	}
-	
 }
